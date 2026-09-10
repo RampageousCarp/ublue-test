@@ -10,7 +10,7 @@ base-image: ghcr.io/ublue-os/base-main
 image-version: latest # You can pin to a specific version of Fedora as well
 
 platforms:
-  - linux/amd64
+#  - linux/amd64
   - linux/arm64
 
 # module configuration, executed in order
